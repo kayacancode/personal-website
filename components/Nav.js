@@ -2,7 +2,7 @@ import React from 'react'
 import Haead from 'next/head'
 import Link from 'next/link';
 import { useState } from 'react';
-
+import Image from 'next/image';
 const Nav = () => {
 
     const [active, setActive] = useState(false);
@@ -22,10 +22,10 @@ const Nav = () => {
           
             <nav className="flex items-center flex-wrap p-3 font-['Roboto',sans-serif]  ">
               
-              <div className = "w-screen text-center ">
+              <div className = "flex items-center justify-center ">
                 <Link href = '/'>
                   <a className = "p-2 mr-4 text-[24px] font-bold" >
-                    Kayacancode
+                    <img src = "/kayalogo.png" class = "	w-[99px] h-[177px]"/>
                     </a>
                 </Link>
               </div>
