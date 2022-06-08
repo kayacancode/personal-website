@@ -25,7 +25,7 @@ const Nav = () => {
               <div className = "flex items-center justify-center ">
                 <Link href = '/'>
                   <a className = "p-2 mr-4 text-[24px] font-bold" >
-                    <img src = "/kayalogo.png" class = "	w-[99px] h-[177px]"/>
+                    <Image src = "/kayalogo.png" className = "	w-[99px] h-[177px]" width ="99px" height ="177px"/>
                     </a>
                 </Link>
               </div>

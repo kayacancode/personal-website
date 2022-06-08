@@ -1,11 +1,11 @@
 import React from 'react'
 import Link from 'next/link';
-
+import Image from 'next/image';
 const Hero = () => {
   return (
     <div>
       <div className="flex flex-wrap justify-center">
-        <img src = "/favicon.ico" class = "	w-[150px] h-[168px]"/>
+        <Image src = "/favicon.ico" class = "	w-[150px] h-[168px]" width="150px" height="168px"/>
 
         {/* <h1 className="text-center py-3 font-bold italic " >welcome, what do you want to see? </h1> */}
         </div>

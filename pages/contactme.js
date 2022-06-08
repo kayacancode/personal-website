@@ -73,7 +73,7 @@ const contactme = () => {
                 
 
         </div>
-        <section class="hero container max-w-screen-lg mx-auto pb-10 pt-5 px-10">
+        <section className="hero container max-w-screen-lg mx-auto pb-10 pt-5 px-10">
     <p className="text-center text-[#3C3939] pt-5">Want to work together on a project? Does your business need an updated and refreshed technical presence? Have an opportunity that you would love to share or maybe you just want to say hello?
     <br/> <a href="mailto:kayacancode@gmail.com?subject= Services Inquiry" className="text-lg pt-2">📧: kayacancode@gmail.com</a>
 
