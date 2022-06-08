@@ -43,7 +43,7 @@ const Hero = () => {
           <Link href = "/projects">
           <button class = "bg-[#8682D9] block items-center space-x-2  rounded-full  border-32  px-4 py-2 text-[#FFFFFF]">things i have made </button>
           </Link>
-          <button class = "bg-[#E5E5E5] block items-center space-x-2  rounded-full  border-32  px-11 py-2 text-[#000000] m-2 ">Let's Chat </button>
+          <a href ="mailto:kayacancode@gmail.com?subject= Services Inquiry"><button class = "bg-[#E5E5E5] block items-center space-x-2  rounded-full  border-32  px-11 py-2 text-[#000000] m-2 ">Let's Chat </button></a>
 
       </div>
     </div>

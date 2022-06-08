@@ -5,7 +5,7 @@ import Socialmediafooter from '../components/Socialmediafooter'
 
 const Layout = ({children}) => {
   return (
-    <div  class = "min-h-screen bg-[#BBB8E7]">
+    <div  class = "min-h-screen bg-[#91bde5]">
       {/* 91bde5 - blue */}
       {/* BBB8E7 purple */}
     <Head> 

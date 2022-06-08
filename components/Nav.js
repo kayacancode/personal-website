@@ -67,27 +67,27 @@ const Nav = () => {
               </a>
             </Link>
             
-            <Link href='/projects'>
+            <Link href='/portfolio'>
               <a className='lg:inline-flex lg:w-auto w-full px-3 py-2  text-[#8682D9]font-bold items-center justify-center text-center text-2xl hover:text-[#8682D9]'>
                 /projects
               </a>
             </Link>
-            <Link href='/projects'>
+            <Link href='/scoutleader'>
               <a className='lg:inline-flex lg:w-auto w-full px-3 py-2  items-center justify-center text-center text-2xl hover:text-[#8682D9]'>
               scoutleader.com             
                </a>
             </Link>
-            <Link href='/projects'>
+            <Link href='/IWTblog'>
               <a className='lg:inline-flex lg:w-auto w-full px-3 py-2   items-center justify-center text-center text-2xl hover:text-[#8682D9]'>
               insuvewetrust.com            
                </a>
             </Link>
-            <Link href='/projects'>
+            <Link href='/lettuce'>
               <a className='lg:inline-flex lg:w-auto w-full px-3 py-2  text-[#8682D9]items-center justify-center text-center text-2xl hover:text-[#8682D9]'>
               lettuce            
                </a>
             </Link>
-            <Link href='/contact'>
+            <Link href='/contactme'>
               <a className='lg:inline-flex lg:w-auto w-full px-3 py-2  text-[#8682D9]font-bold items-center justify-center text-center text-2xl hover:text-[#8682D9]'>
               /contact            
                </a>
