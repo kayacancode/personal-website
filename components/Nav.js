@@ -16,7 +16,7 @@ const Nav = () => {
            <head>
             <link rel="stylesheet" href="https://use.typekit.net/lvy3mfo.css"/>
             <meta charset="UTF-8" />
-            <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+            <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>
             <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
             <title>Kaya Jones </title>
             </head>
@@ -41,9 +41,9 @@ const Nav = () => {
               class="w-6 h-6 text-white-500 "
               x-show="!showMenu"
               fill="none"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
               viewBox="0 0 24 24"
               stroke="currentColor"
             >

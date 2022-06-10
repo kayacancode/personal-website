@@ -13,7 +13,7 @@ const portfolio = () => {
         <title>Kayacancode</title>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
         <meta name ="title" content = "Kayacancode" />
         <meta name="description" content="Kayacancode · Web Development · Data Science · Computer Science · Full Stack Web Development ·" />
         <meta property="og:title" content="Kayacancode"/>
@@ -23,7 +23,7 @@ const portfolio = () => {
         <meta property="og:site_name" content="Kayacancode"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-    <div class = "grid-cols-3 p-16 space-y-2 md:space-y-0 grid-cols-3 sm:grid sm:gap-3 sm:grid-cols-3">
+    <div className = "grid-cols-3 p-16 space-y-2 md:space-y-0 grid-cols-3 sm:grid sm:gap-3 sm:grid-cols-3">
     <motion.div     whileHover={{ scale: 1.1 }}
     whileTap={{ scale: 0.9 }}>
     <Project img = "/insuavewetrust.png" title = "In Suave We Trust Blog - 2022" link = "/IWTblog"/>

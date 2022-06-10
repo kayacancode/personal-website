@@ -11,7 +11,7 @@ const about = () => {
         <title>Kayacancode</title>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
         <meta name ="title" content = "Kayacancode" />
         <meta name="description" content="Kayacancode · Web Development · Data Science · Computer Science · Full Stack Web Development ·" />
         <meta property="og:title" content="Kayacancode"/>
