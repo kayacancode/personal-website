@@ -2,6 +2,8 @@ import React from 'react'
 import Project from '../components/Project'
 import Socialmediafooter from '../components/Socialmediafooter'
 import Head from 'next/head'
+import { motion } from "framer-motion"
+
 const portfolio = () => {
   return (
     <div>
@@ -22,10 +24,22 @@ const portfolio = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
     <div class = "grid-cols-3 p-16 space-y-2 md:space-y-0 grid-cols-3 sm:grid sm:gap-3 sm:grid-cols-3">
+    <motion.div     whileHover={{ scale: 1.1 }}
+    whileTap={{ scale: 0.9 }}>
     <Project img = "/insuavewetrust.png" title = "In Suave We Trust Blog - 2022" link = "/IWTblog"/>
-    <Project img = "/noeljr.png" title = "Scout Leader Photography Potfolio - 2022" link = "/scoutleader" />
+    </motion.div>
+    <motion.div whileHover={{ scale: 1.1 }}
+    whileTap={{ scale: 0.9 }}>
+    <Project img = "/dirkscoutleader.png" title = "Scout Leader Photography Potfolio - 2022" link = "/scoutleader" />
+
+    </motion.div>
+
+    <motion.div whileHover={{ scale: 1.1 }}
+    whileTap={{ scale: 0.9 }} >
     <Project img = "/lettucehome.png" title = "Lettuce coming soon- 2022" link = "/lettuce" />
 
+    </motion.div>
+  
     </div>
     </div>
   )

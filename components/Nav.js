@@ -3,6 +3,7 @@ import Haead from 'next/head'
 import Link from 'next/link';
 import { useState } from 'react';
 import Image from 'next/image';
+
 const Nav = () => {
 
     const [active, setActive] = useState(false);

@@ -1,14 +1,16 @@
 import React from 'react'
 import Link from 'next/link';
 import Image from 'next/image';
+import { motion } from "framer-motion"
+
 const Hero = () => {
   return (
     <div>
-      <div className="flex flex-wrap justify-center">
+      <motion.div animate= {{ rotate: 360, y:-5}}  transition={{ duration: 5 }} className="flex flex-wrap justify-center">
         <Image src = "/favicon.ico" class = "	w-[150px] h-[168px]" width="150px" height="168px"/>
 
         {/* <h1 className="text-center py-3 font-bold italic " >welcome, what do you want to see? </h1> */}
-        </div>
+        </motion.div>
        
     <div>
 

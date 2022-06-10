@@ -13,7 +13,7 @@ const Project = (p) => {
         >
           <Image
             src= {p.img}
-            className="opacity-60 w-full h-full overflow-hidden "  width= "300px" height= "358px"
+            className="opacity-60 w-full h-full overflow-hidden "  width= "527x" height= "358px"
             alt="img"
           />
           <div className="absolute left-0 bottom-0 ">
