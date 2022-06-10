@@ -9,7 +9,7 @@ const Project = (p) => {
             <div className="w-full rounded">
         <div
           
-          class="relative bg-gray-900	w-full h-full overflow-hidden rounded-lg shadow-lg cursor-pointer"
+          className="relative bg-gray-900	w-full h-full overflow-hidden rounded-lg shadow-lg cursor-pointer"
         >
           <Image
             src= {p.img}

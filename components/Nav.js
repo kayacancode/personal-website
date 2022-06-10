@@ -38,7 +38,7 @@ const Nav = () => {
         >
          
          <svg
-              class="w-6 h-6 text-white-500 "
+              className="w-6 h-6 text-white-500 "
               x-show="!showMenu"
               fill="none"
               strokeLinecap="round"

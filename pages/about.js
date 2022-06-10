@@ -22,11 +22,11 @@ const about = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
     <div class="w-screen text-center  font-['Roboto',sans-serif]">
-           <h1 class = "text-4xl">hi 👋</h1> 
-            <div class = "block p-10">
+           <h1 className= "text-4xl">hi 👋</h1> 
+            <div className= "block p-10">
             <Image src= "/biopic.png" alt = "memoji bio pic" width = "123px" height = "128px"/>
 
-            <p class = "text-center font-['Segoe UI',sans ]">I am an aspiring  full stack engineer who studies computer science and plays college basketball. I am a student who loves to incorporate computer science into all of my other passions/interests. I have experince in web development and data science.  
+            <p className= "text-center font-['Segoe UI',sans ]">I am an aspiring  full stack engineer who studies computer science and plays college basketball. I am a student who loves to incorporate computer science into all of my other passions/interests. I have experince in web development and data science.  
 
 In my free time I like to volunteer at the dog shelter, play basketball, and watch movies. 
 
