@@ -21,7 +21,7 @@ const about = () => {
         <meta property="og:site_name" content="Kayacancode"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-    <div class="w-screen text-center  font-['Roboto',sans-serif]">
+    <div className="w-screen text-center  font-['Roboto',sans-serif]">
            <h1 className= "text-4xl">hi 👋</h1> 
             <div className= "block p-10">
             <Image src= "/biopic.png" alt = "memoji bio pic" width = "123px" height = "128px"/>
