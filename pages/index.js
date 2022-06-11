@@ -7,7 +7,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div>
- `     <Head>
+      <Head>
       {/* developed by: Kaya Jones
   website: https://kayacancode.com/ */}
         <title>Kayacancode</title>
