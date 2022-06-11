@@ -22,7 +22,7 @@ export default function Home() {
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Kayacancode"/>
         <link rel="icon" href="/favicon.ico" />
-      </Head>`
+      </Head>
      
           <Hero />
     </div>
