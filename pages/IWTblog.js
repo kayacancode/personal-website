@@ -28,7 +28,7 @@ const IWTblog = () => {
         </div>
         <section className="hero container max-w-screen-lg mx-auto p-10 ">
     <Image className="mx-auto px-10 py-10" src="/demo.gif" alt="screenshot" width= "915px" height= "508px"/>
-    <p className="text-center text-[#3C3939] pt-5">I recently finished a web app with an iphone interface thats main purpose is a music review blog. <br /> Technologies used: React, Next JS, Firebase, and Tailwind CSS. </p>
+    <p className="text-center text-[#3C3939] pt-5">I recently finished a web app with an iPhone interface, utilized for a music review blog. <br /> Technologies used: React, Next JS, Firebase, and Tailwind CSS. </p>
 </section>
         
 
