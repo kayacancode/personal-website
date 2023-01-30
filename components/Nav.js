@@ -83,11 +83,7 @@ const Nav = () => {
               insuvewetrust.com            
                </a>
             </Link>
-            <Link href='/lettuce'>
-              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2  text-[#8682D9]items-center justify-center text-center text-2xl hover:text-[#8682D9]'>
-              lettuce            
-               </a>
-            </Link>
+           
             <Link href='/contactme'>
               <a className='lg:inline-flex lg:w-auto w-full px-3 py-2  text-[#8682D9]font-bold items-center justify-center text-center text-2xl hover:text-[#8682D9]'>
               /contact            

@@ -36,7 +36,6 @@ const portfolio = () => {
 
     <motion.div whileHover={{ scale: 1.1 }}
     whileTap={{ scale: 0.9 }} >
-    <Project img = "/lettucehome.png" title = "Lettuce coming soon- 2022" link = "/lettuce" />
 
     </motion.div>
   
